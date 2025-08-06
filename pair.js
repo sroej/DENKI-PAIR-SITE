@@ -112,7 +112,7 @@ router.get('/', async (req, res) => {
 ║
 ║❒ 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 :
  https://whatsapp.com/channel/0029VbAdcIXJP216dKW1253g 
-║
+║❒ 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 : DYBYTECH
 ╚══════════════════════════❒`;
 
                         await sock.sendMessage(sock.user.id, {
